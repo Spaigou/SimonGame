@@ -4,6 +4,7 @@ For UI I used Jetpack Compose
 # How it looks?
 <details>
   <summary>Screenshots</summary>
+  
   ### Main menu
   ![image](https://github.com/Spaigou/SimonGame/assets/101858187/b188a380-7f99-4b70-b40c-aa14c38506c8)
   ### Game screen
