@@ -6,7 +6,8 @@ For UI I used Jetpack Compose
   <summary>Screenshots</summary>
   
   ### Main menu
-  ![image](https://github.com/Spaigou/SimonGame/assets/101858187/b188a380-7f99-4b70-b40c-aa14c38506c8)
+  <img src="https://github.com/Spaigou/SimonGame/assets/101858187/b188a380-7f99-4b70-b40c-aa14c38506c8" alt="main menu" width="300" height="auto">
+  
   ### Game screen
-  ![image](https://github.com/Spaigou/SimonGame/assets/101858187/e074f7e0-940f-4428-bfca-18f1f5c6573c)
+  <img src="https://github.com/Spaigou/SimonGame/assets/101858187/e074f7e0-940f-4428-bfca-18f1f5c6573c" alt="game screen" width="300" height="auto">
 </details>
